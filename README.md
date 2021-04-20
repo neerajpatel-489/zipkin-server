@@ -1,4 +1,4 @@
 # zipkin-server
 
-## License
+## Zipkin
 [ZIPKIN API](https://zipkin.io/zipkin-api/)
